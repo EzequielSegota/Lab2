@@ -1,0 +1,12 @@
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\bin\Debug\netcoreapp3.1\Ejer_04.exe
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\bin\Debug\netcoreapp3.1\Ejer_04.deps.json
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\bin\Debug\netcoreapp3.1\Ejer_04.runtimeconfig.json
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\bin\Debug\netcoreapp3.1\Ejer_04.runtimeconfig.dev.json
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\bin\Debug\netcoreapp3.1\Ejer_04.dll
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\bin\Debug\netcoreapp3.1\Ejer_04.pdb
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\obj\Debug\netcoreapp3.1\Ejer_04.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\obj\Debug\netcoreapp3.1\Ejer_04.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\obj\Debug\netcoreapp3.1\Ejer_04.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\obj\Debug\netcoreapp3.1\Ejer_04.dll
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\obj\Debug\netcoreapp3.1\Ejer_04.pdb
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_04\obj\Debug\netcoreapp3.1\Ejer_04.genruntimeconfig.cache
