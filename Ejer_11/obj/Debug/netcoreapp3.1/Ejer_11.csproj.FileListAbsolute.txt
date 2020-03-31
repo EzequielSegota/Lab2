@@ -1,0 +1,13 @@
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\bin\Debug\netcoreapp3.1\Ejer_11.exe
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\bin\Debug\netcoreapp3.1\Ejer_11.deps.json
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\bin\Debug\netcoreapp3.1\Ejer_11.runtimeconfig.json
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\bin\Debug\netcoreapp3.1\Ejer_11.runtimeconfig.dev.json
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\bin\Debug\netcoreapp3.1\Ejer_11.dll
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\bin\Debug\netcoreapp3.1\Ejer_11.pdb
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\obj\Debug\netcoreapp3.1\Ejer_11.csprojAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\obj\Debug\netcoreapp3.1\Ejer_11.csproj.CoreCompileInputs.cache
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\obj\Debug\netcoreapp3.1\Ejer_11.AssemblyInfoInputs.cache
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\obj\Debug\netcoreapp3.1\Ejer_11.AssemblyInfo.cs
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\obj\Debug\netcoreapp3.1\Ejer_11.dll
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\obj\Debug\netcoreapp3.1\Ejer_11.pdb
+C:\Users\Ezequiel\Desktop\Lab2\Ejer_11\obj\Debug\netcoreapp3.1\Ejer_11.genruntimeconfig.cache
